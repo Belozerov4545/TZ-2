@@ -1,0 +1,65 @@
+{
+  "posts": [{
+    "id": "1",
+    "title": "Egypt",
+    "img": "https://fs.tonkosti.ru/2l/nq/2lnqo9i8xtic80cskc4kk0kw8.jpg",
+    "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, omnis laudantium modi culpa assumenda, a rerum ipsum, quisquam asperiores ut aliquam totam eius quaerat. Sunt veniam incidunt odit beatae excepturi.",
+    "data": "07.05.22"
+    }, {
+      "id": "2",
+      "title": "Prague",
+      "img": "https://praga-praha.ru/wp-content/uploads/2010/12/Starom%C4%9Bstsk%C3%A9-n%C3%A1m%C4%9Bst%C3%AD.jpg",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, omnis laudantium modi culpa assumenda, a rerum ipsum, quisquam asperiores ut aliquam totam eius quaerat. Sunt veniam incidunt odit beatae excepturi.",
+      "data": "21.11.20"
+    }, 
+    {
+      "id": "3",
+      "title": "Rome",
+      "img": "https://cdn.britannica.com/46/154246-050-7C72E12F/view-Rome.jpg",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, omnis laudantium modi culpa assumenda, a rerum ipsum, quisquam asperiores ut aliquam totam eius quaerat. Sunt veniam incidunt odit beatae excepturi.",
+      "data": "06.10.22"
+    },
+    {
+      "id": "4",
+      "title": "Scorpions",
+      "img": "https://i.ytimg.com/vi/DVrSN5TUTbg/maxresdefault.jpg",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, omnis laudantium modi culpa assumenda, a rerum ipsum, quisquam asperiores ut aliquam totam eius quaerat. Sunt veniam incidunt odit beatae excepturi.",
+      "data": "25.06.22"
+    },
+    {
+      "id": "5",
+      "title": "Judas Priest",
+      "img": "https://i.ytimg.com/vi/H8XgJ2VbAL0/maxresdefault.jpg",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, omnis laudantium modi culpa assumenda, a rerum ipsum, quisquam asperiores ut aliquam totam eius quaerat. Sunt veniam incidunt odit beatae excepturi.",
+      "data": "12.09.20"
+    },
+    {
+      "id": "6",
+      "title": "Kiss",
+      "img": "https://thecity.m24.ru/b/d/SYketSivfok_IPXObLLBFlFNGhtudTX-kYVfOS8Xp1Gj5pqKzWTJSFS-PsArI08gRZaK1yZktQXWesHOaOz7FWcJ5xZMng=LvRHSD856UveJrYxTIQAPQ.jpg",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, omnis laudantium modi culpa assumenda, a rerum ipsum, quisquam asperiores ut aliquam totam eius quaerat. Sunt veniam incidunt odit beatae excepturi.",
+      "data": "17.02.22"
+    },
+    {
+      "id": "7",
+      "title": "Tube",
+      "img": "https://oir.mobi/uploads/posts/2020-01/1579141637_1-1.jpg",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, omnis laudantium modi culpa assumenda, a rerum ipsum, quisquam asperiores ut aliquam totam eius quaerat. Sunt veniam incidunt odit beatae excepturi.",
+      "data": "07.07.18"
+    },
+    {
+      "id": "8",
+      "title": "Tunnel of light",
+      "img": "https://oir.mobi/uploads/posts/2020-01/1579141687_23-44.jpg",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, omnis laudantium modi culpa assumenda, a rerum ipsum, quisquam asperiores ut aliquam totam eius quaerat. Sunt veniam incidunt odit beatae excepturi.",
+      "data": "01.04.22"
+    },
+    {
+      "id": "9",
+      "title": "Metro",
+      "img": "https://um.mos.ru/upload/iblock/065/_MG_2258.jpg",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, omnis laudantium modi culpa assumenda, a rerum ipsum, quisquam asperiores ut aliquam totam eius quaerat. Sunt veniam incidunt odit beatae excepturi.",
+      "data": "06.05.20"
+    }
+  ]
+}
